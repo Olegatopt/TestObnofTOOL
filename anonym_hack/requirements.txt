@@ -1,0 +1,6 @@
+colorama
+php
+wget
+curl
+git
+phonenumbers
